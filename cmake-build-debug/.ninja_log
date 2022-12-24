@@ -1,0 +1,14 @@
+# ninja log v5
+10	420	6935289106310338	CMakeFiles/practics.dir/strings.cpp.obj	a75d369ee18ea808
+3	247	6935288419517570	CMakeFiles/practics.dir/main.cpp.obj	d0322091cf0a2c37
+7	737	6935362227566783	CMakeFiles/practics.dir/p.types.cpp.obj	28fe7357136efce3
+5	813	6935362642516753	CMakeFiles/practics.dir/arrays.cpp.obj	686ee590d8810746
+14	2370	6935362658093405	CMakeFiles/practics.dir/2D_arrays.cpp.obj	86099735bc48213f
+2370	2522	6935362659570231	practics.exe	eacc88cd02e7fe0f
+1	478	6935772433612713	build.ninja	cc14dc5a7e2a0a97
+22	807	6935772442768997	CMakeFiles/practics.dir/main.cpp.obj	d0322091cf0a2c37
+4	929	6935772443989283	CMakeFiles/practics.dir/practics1234/arrays.cpp.obj	b5278b8c9e58a6a8
+16	934	6935772444049289	CMakeFiles/practics.dir/practics1234/strings.cpp.obj	cb09a82fa277d312
+7	950	6935772444219324	CMakeFiles/practics.dir/practics1234/p.types.cpp.obj	1f77de34e2135438
+12	2418	6935772458891775	CMakeFiles/practics.dir/practics1234/2D_arrays.cpp.obj	33b7b8e5ae572ab4
+2418	2618	6935772460849205	practics.exe	a7f5e7ae81cc131
